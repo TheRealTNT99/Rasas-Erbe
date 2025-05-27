@@ -1,0 +1,80 @@
+# Nach zeitlicher Dringlichkeit sortiert
+- [ ] NPC Companion für die Gruppe erstellen
+	- Ein positiv gestimmter Einfluss, als Gegensatz zu [[Rastafar]].
+	- Soll hilfreiche Infos geben können, sollte es diese brauchen.
+- [ ] Story für **Akt 1** gestalten
+	- [x] Die Quest [[Jäger am Rande der Zivilisation Teil 2]] fertig gestalten
+		- [x] [[Eladrhain]]'s einzelne Gebiete gestalten
+		- [x] Progression durch Eladrhain gestalten (Ankunft bis Hafen)
+		- [x] Schiff, Seeleute, etc... gestalten, mit welchen die Spieler in See stechen sollen
+		- [x] Sturm vorher gestalten
+		- [x] Kampf gegen [[Der Schatten]] auf See gestalten
+		- [x] Quest-Ende gestalten
+	- [ ] Die Quest [[Marika's Monster Teil 1]] fertig gestalten
+		- [ ] Ende vom Kampf und die Rückkehr gestalten
+		- [ ] Loot überlegen
+		- [ ] 
+	- [ ] Die Quest [[Jäger am Rande der Zivilisation Teil 3]] gestalten
+		- [ ] Ziel der Mission ist es, die [[Dungeon Core|magische Anomalie]] (magischer Katalyst?) im Dungeon zu bergen
+		- [x] Monster Theme ist "Untote" (sollte es leicht für Kleriker und Anti-Untote-Ranger machen)
+		- [ ] Loot überlegen und verteilen
+			- [ ] [[Dandelion]] 
+				- [[Pearl of Power]]? (Lame...)
+				- Ein Tattoo? (Mal schauen, wie die magischen Tattoos ankommen...)
+				- Herzstrang einer magischen Eiche? Ein Stab welcher seine Form ändern kann (Prothese? [[Dandelion]] fehlt kein Gliedmaß...)
+			- [x] [[Frey]] 
+			- [x] [[Kira]] 
+			- [ ] [[Dungeon Core]]? etwas anderes als finalen Loot?
+		- [x] Hintergrund (Lore) der Gruft & Co. schreiben
+		- [ ] Den Bereich außerhalb der Gruft gestalten
+			- [ ] [[Gruft des Roten Barons#Dorf Grabenhain|Dorf Grabenhain]]
+				- [x] Was man an Hinweisen finden kann
+				- [ ] Notizheft des Dorfältesten
+			- [ ] [[Gruft des Roten Barons#Anwesen des Roten Baron (Ruine)|Anwesen des Roten Barons]]
+- [ ] **[[Ende|BBEG]]** gestalten
+	- Ideen?
+	- [ ] Die Quest [[Rasa's Erbe (Teil 2)]] gestalten, da hier der [[Ende|BBEG]] klar wird
+- [ ] Story für **Akt 2** gestalten
+	- [ ] Die Quest [[Komplizen und Widersacher Teil 1]] gestalten
+	- [ ] Die Quest [[Komplizen und Widersacher Teil 2]] gestalten
+		- False Hydra?
+	- [ ] Die Quest [[Komplizen und Widersacher Teil 3]] gestalten
+- [ ] Story für **Akt 3** gestalten
+
+# Nach Charakteren sortiert
+- [ ] Aspekte spezifisch für Charaktere ausarbeiten
+	- [ ] [[Conrad]]
+	- [ ] [[Dandelion]]
+		- [ ] [[Edgar & Erich]], seine Fey Companions, ausarbeiten
+		- [ ] Kasino in [[Eladrhain]], das [[Sternenglanz]], gestalten (Hat früher [[Dandelion]] gehört, doch gehört jetzt seinem Rivalen)
+	- [ ] [[Frey]]
+	- [ ] [[Kira]]
+		- [ ] "Whispers from the Void" als *Sprache der Toten*?
+	- [ ] [[Owen]]
+		- [ ] [[Cynthia]], seine Exfreundin, gestalten
+	- [ ] [[Toovir]]
+	- [ ] [[Zoey]]
+		- [ ] [[Die dunkle Herrin der Himmel]], ihren Patron, gestalten
+
+# Obdachlose Items
+- Diesen Items einen Ort in der Kampagne geben:
+	- [[Void-Tainted Rations]] ([[Gruft des Roten Barons]]?)
+	- [[Travel Alchemical Kit]] ([[Owen]]?)
+	- [[Tankard of Sobriety]] (Jeder außer [[Toovir]]?)
+	- [[Spell Bottle]] ([[Conrad]], [[Dandelion]] oder [[Frey]]?)
+	- [[Soulbound Wheel]] (?)
+	- [[Sigilian Star Charts]] ([[Dandelion]]?)
+	- [[Sentinel Star]] ([[Dandelion]]?)
+	- [[Sea Devil's Sapphire]] (Jeder?)
+	- [[Robe of Stars]] ([[Dandelion]]?)
+	- [[Quiver of Ehlonna]] ([[Kira]]?)
+	- [[Pearl of Putrescence]] (Spellcaster?)
+	- [[Orb of the Veil]] ([[Owen]]?)
+	- [[Keycoin]] ([[Owen]]?)([[Marikas Zauber und Kuriositäten]]?)
+	- [[Illusionist's Bracers]] ([[Conrad]], [[Dandelion]] oder [[Frey]]?)
+	- [[Goggles of Object Reading]] ([[Zoey]]?)([[Marikas Zauber und Kuriositäten]]?)
+	- [[Gloves of Thievery]] ([[Conrad]], [[Owen]] oder [[Toovir]]?)
+	- [[Girdle of Traveling Alchemy]] ([[Owen]]?)
+	- [[Dust of Deliciousness]] (Wer auch immer kocht...)
+	- [[Charlatan's Die]] ([[Conrad]]?)([[Marikas Zauber und Kuriositäten]]?)
+	- [[Belt of Hidden Knives]] ([[Owen]]?)
